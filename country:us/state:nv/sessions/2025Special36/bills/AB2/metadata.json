@@ -85,15 +85,25 @@
       }
     },
     {
-      "description": "Approved by the Governor. Chapter 2.",
-      "date": "2025-11-20T08:00:00+00:00",
+      "description": "Approved by the Governor.",
+      "date": "2025-11-18T08:00:00+00:00",
       "organization_id": "~{\"classification\": \"executive\"}",
       "classification": [
         "executive-signature"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:32:04Z"
+        "log_file_created": "2025-12-02T08:33:26Z"
+      }
+    },
+    {
+      "description": "Chapter 2.",
+      "date": "2025-11-20T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-02T08:33:26Z"
       }
     }
   ],
@@ -195,6 +205,6 @@
     "division_id": "ocd-division/country:us/state:nv"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:32:04Z"
+    "logs_latest_update": "2025-12-02T08:33:26Z"
   }
 }
